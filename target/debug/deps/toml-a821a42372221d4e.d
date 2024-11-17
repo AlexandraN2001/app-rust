@@ -1,0 +1,13 @@
+H:\Usuarios\Programas\my_rust_web_app\target\debug\deps\libtoml-a821a42372221d4e.rmeta: C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs
+
+H:\Usuarios\Programas\my_rust_web_app\target\debug\deps\toml-a821a42372221d4e.d: C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs
+
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs:
+C:\Users\NAYELI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs:
